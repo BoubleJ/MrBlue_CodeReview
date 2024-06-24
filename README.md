@@ -3,9 +3,11 @@
 <br>
 <br>
 
+
+
 ## 상품목록 페이지 접속 시 초기화면
 
-<img src="https://github.com/BoubleJ/mrblue_CodeReview/assets/122145341/a7985b22-70b5-4bc2-aaf0-692369ee06e6" width="70%" height="40%"  alt="RubberDuck"></img>
+<img src="https://github.com/BoubleJ/mrblue_CodeReview/assets/122145341/cc4d707c-2246-437c-a7e0-ef16cfd9ec33" width="70%" height="40%"  alt="RubberDuck"></img>
 <br>
 <br>
 <br>
@@ -24,5 +26,5 @@
 <br>
 <br>
 
-### 프로젝트 화면을 컴포넌트 레벨로 간략하게 분석해놓았습니다. 
+### 프로젝트 화면을 컴포넌트 단위로 간략하게 분석해놓았습니다. 
 ### 참고하시길 바랍니다. 감사합니다.
